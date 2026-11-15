@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+keys/
+archive/archive.db*
+archive/data/
